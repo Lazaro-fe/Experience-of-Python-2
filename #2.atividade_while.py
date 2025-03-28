@@ -13,8 +13,7 @@ while True:
     print("""
 Código   |  Descrição
     1    |  Adicinar pessoa
-    2    |  Exibir resultados
-    3    |  Sair
+    2    |  Sair e exibir resultados
 """)
     opcao = input("Digite o seu código : ")
 
